@@ -13,6 +13,6 @@ class DiceGame{
 	System.out.println("Die 2 : " + die2);
 	System.out.println("Total value: " + sum);
 	if(sum > 7)System.out.println("Aku won!");
-	else System.out.println("Aku won");
+	else System.out.println("Aku lose");
     }
 }
